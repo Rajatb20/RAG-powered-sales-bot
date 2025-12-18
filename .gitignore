@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+
+# Jupyter Notebooks (optional, we are moving them to experiments)
+.ipynb_checkpoints
+
+# Data
+*.pkl
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
