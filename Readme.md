@@ -32,7 +32,6 @@ salesGPT/
 │   ├── tools.py            # Tool definitions (Vector & Graph search)
 │   ├── graph.py            # Neo4j Graph RAG implementation
 │   └── templates.py        # Prompt templates
-├── experiments/            # Notebooks and research artifacts
 ├── app.py                  # Application entry point
 ├── Dockerfile              # Docker build configuration
 ├── requirements.txt        # Python dependencies
@@ -121,3 +120,4 @@ The project uses a pre-generated vector store (`docsearch.pkl`) containing produ
 3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
+
